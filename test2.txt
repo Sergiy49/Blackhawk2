@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hello
 change local 1
 change lokal 2
+=======
+change1
+hello
+change2
+>>>>>>> dd869d95bc95df5693b021c7d637a8148251f435
